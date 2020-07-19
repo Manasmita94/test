@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jul 19 12:56:43 IST 2020","Sun Jul 19 12:56:53 IST 2020","9810","Command line suite","Command line test","testCases.DoodlesTest","testCases.DoodlesTest","TC_ValidateDoodlesPage","To Verify that when the user click on I'm Feeling Lucky button, the page navigates to Doodles Page",""
+"passed","Sun Jul 19 12:57:02 IST 2020","Sun Jul 19 12:57:11 IST 2020","8594","Command line suite","Command line test","testCases.GoogleSearchTest","testCases.GoogleSearchTest","TC_SearchInGoogle","To Verify that when the user search for a specific text, the page navigates to the Search Result Page",""
