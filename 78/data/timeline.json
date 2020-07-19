@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-4CHLMDIK",
+    "children" : [ {
+      "name" : "18172@LAPTOP-4CHLMDIK.main(1)",
+      "children" : [ {
+        "name" : "To Verify that when the user click on I'm Feeling Lucky button, the page navigates to Doodles Page",
+        "uid" : "21c2890378bbeafb",
+        "parentUid" : "0a827df87ebb318afa3377c280496702",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595144304226,
+          "stop" : 1595144312889,
+          "duration" : 8663
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "To Verify that when the user search for a specific text, the page navigates to the Search Result Page",
+        "uid" : "3834cc6f4e4c59a3",
+        "parentUid" : "0a827df87ebb318afa3377c280496702",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595144323355,
+          "stop" : 1595144328484,
+          "duration" : 5129
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1" ]
+      } ],
+      "uid" : "0a827df87ebb318afa3377c280496702"
+    } ],
+    "uid" : "0f5c4610d60aadddd972aa9e16270192"
+  } ]
+}
