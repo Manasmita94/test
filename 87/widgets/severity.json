@@ -1,0 +1,21 @@
+[ {
+  "uid" : "a7a818e3847df9b4",
+  "name" : "To Verify that when the user click on I'm Feeling Lucky button, the page navigates to Doodles Page",
+  "time" : {
+    "start" : 1595674761618,
+    "stop" : 1595674774379,
+    "duration" : 12761
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8d0bd51374ae21b",
+  "name" : "To Verify that when the user search for a specific text, the page navigates to the Search Result Page",
+  "time" : {
+    "start" : 1595674786880,
+    "stop" : 1595674792490,
+    "duration" : 5610
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
